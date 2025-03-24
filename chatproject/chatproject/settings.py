@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--!^0b6tcu7g7!wyt(!%p2tzma9j+&po1s+mf1rctz&x6)-g_%o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['speech-translator-chat-backend.onrender.com']
+ALLOWED_HOSTS = ['speech-translator-chat-backend.onrender.com', 'speech-translator-chat-backend.railway.internal']
 
 
 # Application definition
